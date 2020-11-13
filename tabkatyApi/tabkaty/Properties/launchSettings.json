@@ -4,8 +4,8 @@
     "windowsAuthentication": false,
     "anonymousAuthentication": true,
     "iisExpress": {
-      "applicationUrl": "http://localhost:2898",
-      "sslPort": 44391
+      "applicationUrl": "http://localhost:1309",
+      "sslPort": 44310
     }
   },
   "profiles": {
@@ -17,7 +17,7 @@
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
-    "tabkatyApi": {
+    "tabkaty": {
       "commandName": "Project",
       "launchBrowser": true,
       "launchUrl": "weatherforecast",

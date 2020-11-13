@@ -1,6 +1,6 @@
 using System;
 
-namespace tabkatyApi
+namespace tabkaty
 {
     public class WeatherForecast
     {
